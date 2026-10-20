@@ -1,0 +1,7 @@
+{
+  "versionCode": 22,
+  "versionName": "2.9.2",
+  "apkUrl": "https://github.com/nithinyadavamaraboina-online/tgsrtc-staff-duty-widget/raw/main/TGSRTC-Staff-Duty-Widget.apk",
+  "releaseNotes": "• Siren & Duty Assigned notification strictly restricted to Main Staff ID only (never for Other IDs)\n• Prevents duplicate siren when sync drops & reconnects on an already-assigned Main ID duty\n• Preserves cached duty & MTD-141 stages across temporary network drops",
+  "publishedAt": "2026-10-20T13:10:15.243Z"
+}
