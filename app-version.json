@@ -1,0 +1,13 @@
+{
+  "versionCode": 24,
+  "versionName": "3.1.0",
+  "apkUrl": "https://github.com/nithinyadavamaraboina-online/tgsrtc-staff-duty-widget/raw/main/TGSRTC-Staff-Duty-Widget.apk",
+  "portalConfig": {
+    "portalBaseUrl": "https://mis.tgsrtcinfo.in",
+    "relayBaseUrl": "",
+    "snapshotBaseUrl": "",
+    "probeUrls": []
+  },
+  "releaseNotes": "• Added 30-Minute TGSRTC Public Site Availability & Recovery Monitor (tgsrtcinfo.in, www & mis.tgsrtcinfo.in)\n• Plays a high-priority notification sound the moment public duty checking or a new duty page comes back online\n• Auto-syncs duties when legacy tables open, or opens the live page in-app + 1-tap '📋 Copy Format Snapshot'\n• Added '📡 Site Check' live status strip, '🔔 Test Live Sound' button & battery-safe DNS-grouped checks",
+  "publishedAt": "2026-11-06T17:09:51.070Z"
+}
