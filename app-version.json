@@ -1,0 +1,13 @@
+{
+  "versionCode": 31,
+  "versionName": "3.4.4",
+  "apkUrl": "https://raw.githubusercontent.com/nithinyadavamaraboina-online/tgsrtc-staff-duty-widget/main/TGSRTC-Staff-Duty-v3.4.4.apk",
+  "portalConfig": {
+    "portalBaseUrl": "https://mis.tgsrtcinfo.in",
+    "relayBaseUrl": "",
+    "snapshotBaseUrl": "",
+    "probeUrls": []
+  },
+  "releaseNotes": "• Duty-Date Color UI: Blue theme when duty date is Today/Live, Green theme when duty date is Tomorrow, and Greyish theme when No Duty is assigned!\n• Bottom-Aligned Widget Card & Fixed Carousel Buttons: Card stays anchored to the bottom leaving empty top expansion room so '◀ / MAIN / #1–#5 / ▶' never jump vertically when switching between Active Duty and Off Duty!\n• Vivo Funtouch OS (rev 1.73.3) & Android 5–14 Installer Compatibility Fix (PNG launcher icons, clean ZIP headers, API 21–34 support)",
+  "publishedAt": "2026-11-14T15:28:25.979Z"
+}
