@@ -1,0 +1,13 @@
+{
+  "versionCode": 32,
+  "versionName": "3.4.5",
+  "apkUrl": "https://raw.githubusercontent.com/nithinyadavamaraboina-online/tgsrtc-staff-duty-widget/main/TGSRTC-Staff-Duty-v3.4.5.apk",
+  "portalConfig": {
+    "portalBaseUrl": "https://mis.tgsrtcinfo.in",
+    "relayBaseUrl": "",
+    "snapshotBaseUrl": "",
+    "probeUrls": []
+  },
+  "releaseNotes": "• Saturated True Blue (Today) vs Pure Neutral Grey (No Duty) UI: Removed blue slate tint from Off-Duty grey so Today (vivid blue), Tomorrow (green), and No Duty (neutral grey) are unmistakably distinct!\n• Telugu Voice Readout Default OFF: Post-siren Tanglish voice readout now defaults to OFF (toggle ON anytime in-app).\n• Cleaner In-App Layout: Removed preset employee ID chips, old default extra IDs, and empty space above the in-app widget card (while keeping Home Screen widget bottom-anchored).",
+  "publishedAt": "2026-11-19T03:42:01.834Z"
+}
